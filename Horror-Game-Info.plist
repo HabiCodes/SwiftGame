@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Item 0</key>
+	<string>Portrait (bottom home button)</string>
+	<key>Supported interface orientations (iPhone)
+Supported interface orientations (iPhone)</key>
+	<array/>
+	<key>item 1</key>
+	<string>Landscape Left</string>
+	<key>item 2</key>
+	<string>Landscape Right</string>
+</dict>
+</plist>
